@@ -39,9 +39,9 @@ class settingscreen extends StatelessWidget {
           ),
           Container(
             height: 600,
-            child: ListView(
+            child:  ListView(
               children: [
-                ListTile(
+              ListTile(
                   title: Text('Account'),
                   subtitle: Text(
                     'privcy,securty,chenge number',
